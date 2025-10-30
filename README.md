@@ -29,7 +29,6 @@ This app allows users to *add, **view, **update, and **delete* tasks in real tim
 - *Node.js*
 - *Express.js*
 - *CORS* enabled
-- *Body-parser* (if needed)
 - * MongoDB
 
 ---
