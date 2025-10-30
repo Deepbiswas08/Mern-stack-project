@@ -31,6 +31,3 @@ This app allows users to *add, **view, **update, and **delete* tasks in real tim
 - *CORS* enabled
 - * MongoDB
 
----
-
-## 📁 Project Structure
